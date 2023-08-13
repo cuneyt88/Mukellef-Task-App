@@ -44,6 +44,7 @@ PROJECT
 |── .prettierrc.json
 └── README.md
 
+
 ### Projede kullanılan teknolojiler;
 
 - TAILWIND
