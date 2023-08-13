@@ -1,9 +1,9 @@
-### Mukellef Cat App
+## Mukellef Cat App
 
-## Project Skeleton
+### Project Skeleton
 
 Mukellef Cat App (dosya)
-
+PROJECT
 ├── public
 │     └── logo-no-backgorund.svg
 ├── app
@@ -44,7 +44,7 @@ Mukellef Cat App (dosya)
 |── .prettierrc.json
 └── README.md
 
-## Projede kullanılan teknolojiler;
+### Projede kullanılan teknolojiler;
 
 - TAILWIND
 
@@ -57,28 +57,28 @@ Mukellef Cat App (dosya)
 - Context
 
 
-### Proje Kurulum Kılavuzu
+## Proje Kurulum Kılavuzu
 
  Aşağıda, projenin farklı bölümlerini nasıl kuracağınıza dair talimatlar bulabilirsiniz.
 
-## Proje Klasörünün İndirilmesi
+### Proje Klasörünün İndirilmesi
 
-Projeyi GitHub'dan indirin veya klonlayın: (Proje GitHub Linki)
+Projeyi GitHub'dan indirin veya klonlayın: (Proje GitHub Linki: https://github.com/cuneyt88/Mukellef-Task-App.git)
 
 Git bash'i açın ve şu komutu girin:
-git clone 
+git clone https://github.com/cuneyt88/Mukellef-Task-App.git
 
 İndirilen veya klonlanan proje klasörüne gidin.
 
 
-## Gerekli Paketlerin Kurulumu
+### Gerekli Paketlerin Kurulumu
 
 Proje klasörü içinde bir terminal açın.
 Aşağıdaki komutu girin ve projenin gerekli bağımlılıklarını yükleyin:
 (npm install)
 
 
-## Çevresel Değişkenlerin Ayarlanması
+### Çevresel Değişkenlerin Ayarlanması
 
 Projede kullanılan çevresel değişkenleri ayarlamak için .env dosyası oluşturun
 
@@ -87,7 +87,7 @@ API_URL=https://api.thecatapi.com/v1
 API_KEY=live_QfyzvMjxzpBOHK7aHZKakJdVcDiLpd2vtPn7c5W3qGblICX5Bo9of8PBgDS0aHWd
 
 
-## Projenin Başlatılması
+### Projenin Başlatılması
 
 Aşağıdaki komutu girerek projeyi başlatın:
 
